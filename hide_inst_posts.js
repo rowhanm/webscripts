@@ -6,7 +6,7 @@
 // @author       Rohan M
 // @match        https://www.instagram.com/*
 // @grant        none
-// @license      Apache2.0
+// @license      MIT
 // @run-at       document-end
 // @downloadURL 
 // @updateURL 
