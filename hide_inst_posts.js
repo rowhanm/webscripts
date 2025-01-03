@@ -22,7 +22,7 @@ window.addEventListener('load', function() {
                 const followDivs = post.querySelectorAll('div');
                 let followFound = false;
                 followDivs.forEach(div => {
-                    if (div.innerText.trim().toLowerCase() === 'follow') || (div.innerText.trim().toLowerCase() === 'sponsored') {
+                    if (div.innerText.trim().toLowerCase() === 'follow' || (div.innerText.trim().toLowerCase() === 'sponsored')) {
                         followFound = true;
                     }
                 });
